@@ -1,0 +1,18 @@
+.ChatComponentItem-root{
+    margin-bottom: 20px;
+    word-break: break-all;
+}
+.ChatComponentItem-massage{
+    background: #60a4ce;
+    border-radius: 7px;
+    border: 1px solid transparent;
+    font-size: 18px;
+    padding: 3px;
+    display: inline-block;
+    color: white;
+    word-wrap: break-word;
+}
+.ChatComponentItem-user{
+    position: relative;
+    margin-bottom: 8px;
+}

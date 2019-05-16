@@ -1,0 +1,20 @@
+.ChannelsComponent-root{
+    background: #60a4ce;
+    height: 350px;
+    padding: 20px;
+    overflow-y: auto;
+}
+.ChannelsComponent-container:hover{
+    color: white;
+    transition: 1s;
+}
+.ChannelsComponent-heading{
+    font-size: 18px;
+    color: white;
+}
+.ChannelsComponent-container,.ChannelsComponent-container_active{
+    font-size: 16px;
+    color: gray;
+    cursor: pointer;
+    display: inline-block;
+}

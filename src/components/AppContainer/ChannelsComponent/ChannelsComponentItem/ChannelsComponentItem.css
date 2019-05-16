@@ -1,0 +1,21 @@
+.ChannelsComponent-root{
+    background: #60a4ce;
+    height: 350px;
+    padding: 20px;
+}
+.ChannelsComponent-item:hover{
+    color: white;
+    transition: 1s;
+}
+.ChannelsComponent-heading{
+    font-size: 18px;
+    color: white;
+}
+.ChannelsComponent-item{
+    font-size: 16px;
+    color: lightgray;
+    cursor: pointer;
+}
+.ChannelsComponent-container_active{
+    color: white;
+}

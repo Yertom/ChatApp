@@ -1,0 +1,6 @@
+.LogInForm-link{
+    text-decoration: none;
+}
+.LogInForm-link:active{
+    border: none;
+}

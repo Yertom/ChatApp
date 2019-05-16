@@ -1,0 +1,26 @@
+.CreateChannel-paper:hover{
+    background: whitesmoke;
+}
+
+.CreateChannel-text:focus{
+    outline: none;
+}
+
+.CreateChannel-text, .CreateChannel-plus{
+    color: #3b5c6f;
+    cursor: pointer;
+    width: 120px;
+    margin-left: 8px;
+    border: none;
+    background: transparent;
+}
+
+.CreateChannel-plus{
+    padding-top:5px;
+    cursor: default;
+    background: none;
+}
+
+.CreateChannel-root{
+    width: 160px
+}
